@@ -1,0 +1,10 @@
+# node.js
+#
+node_modules/
+dist/
+# .env
+
+src/tests/__snapshots__
+
+
+# *.p8
